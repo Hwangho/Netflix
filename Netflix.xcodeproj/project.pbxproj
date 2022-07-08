@@ -13,6 +13,7 @@
 		0E4FDF1D28785996006C8035 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E4FDF1B28785996006C8035 /* Main.storyboard */; };
 		0E4FDF1F28785997006C8035 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E4FDF1E28785997006C8035 /* Assets.xcassets */; };
 		0E4FDF2228785997006C8035 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E4FDF2028785997006C8035 /* LaunchScreen.storyboard */; };
+		0E4FDF2A28785A24006C8035 /* NetflixViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4FDF2928785A24006C8035 /* NetflixViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0E4FDF1E28785997006C8035 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E4FDF2128785997006C8035 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E4FDF2328785997006C8035 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E4FDF2928785A24006C8035 /* NetflixViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetflixViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0E4FDF1728785996006C8035 /* SceneDelegate.swift */,
 				0E4FDF1928785996006C8035 /* ViewController.swift */,
 				0E4FDF1B28785996006C8035 /* Main.storyboard */,
+				0E4FDF2928785A24006C8035 /* NetflixViewController.swift */,
 				0E4FDF1E28785997006C8035 /* Assets.xcassets */,
 				0E4FDF2028785997006C8035 /* LaunchScreen.storyboard */,
 				0E4FDF2328785997006C8035 /* Info.plist */,
@@ -141,6 +144,7 @@
 				0E4FDF1A28785996006C8035 /* ViewController.swift in Sources */,
 				0E4FDF1628785996006C8035 /* AppDelegate.swift in Sources */,
 				0E4FDF1828785996006C8035 /* SceneDelegate.swift in Sources */,
+				0E4FDF2A28785A24006C8035 /* NetflixViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
